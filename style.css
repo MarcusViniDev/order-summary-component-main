@@ -127,5 +127,25 @@ section a:active {
 
 }    
 
+@media screen and (max-width:1280px) {
+    main {
+        width: 50%;
+        height: 85%;
+    }
+}
+@media screen and (max-width: 732px) {
+    main{
+        width: 85%;
+        height: 90%;
+    }
+    
+}
+@media screen and (max-width: 576px) {
+    main{
+        width: 85%;
+        height: 90%;
+    }
+    
+}
 
 
