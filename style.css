@@ -132,6 +132,9 @@ section a:active {
         width: 50%;
         height: 85%;
     }
+    body {
+        background-image: url(./images/pattern-background-mobile.svg);
+    }
 }
 @media screen and (max-width: 732px) {
     main{
