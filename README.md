@@ -28,5 +28,15 @@ This project helped refine my skills in structuring HTML content and applying CS
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/order-summary-card.git
+   git clone https://github.com/MarcusViniDev/order-summary-component-main.git
+
+2. Open index.html in your preferred browser to view the project.
+Acknowledgments
+This project was inspired and guided by the resources and challenges available on Frontend Mentor. Their platform is an excellent resource for developers looking to improve their skills and showcase their work.
+
+Connect with Me
+If you'd like to discuss this project or collaborate, feel free to reach out:
+
+GitHub: MarcusViniDev
+Frontend Mentor: MarcusViniDev
 
